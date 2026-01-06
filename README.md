@@ -1,5 +1,4 @@
-# Crop_Disease_Disease_Dissertation
-
+# Crop_Disease
 # Introduction
 
 This project focused on the comparative evaluation of machine learning techniques for predicting crop diseases using environmental and image data. Crop diseases are a major threat to agricultural productivity, food security, and farmers’ livelihoods worldwide. Traditional disease detection approaches, such as manual inspection and laboratory testing, are often slow, costly, and difficult to scale across large agricultural fields. These limitations highlight the need for automated, data-driven solutions capable of providing early and accurate disease identification.
